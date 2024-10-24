@@ -1,4 +1,3 @@
-
 Row = int(input("Enter the number of rows"))
 number = 1
 for cr in range(1, Row + 1 ):
